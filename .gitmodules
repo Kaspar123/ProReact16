@@ -1,3 +1,9 @@
 [submodule "ProReact16_Chapter1"]
 	path = ProReact16_Chapter1
 	url = https://github.com/Kaspar123/ProReact16_Chapter1.git
+[submodule "ProReact16_Chapter3"]
+	path = ProReact16_Chapter3
+	url = https://github.com/Kaspar123/ProReact16_Chapter3.git
+[submodule "ProReact16_Chapter4"]
+	path = ProReact16_Chapter4
+	url = https://github.com/Kaspar123/ProReact16_Chapter4.git
